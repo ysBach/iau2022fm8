@@ -17,9 +17,11 @@ This is a small website to host the guidelines by FM8 LOCs **at one single place
 ## Contacts
 Below are the IAUGA 2022 FM8 LOC members. 
 
-    MOON    , Hong-Kyu (KASI): fullmoon .at. kasi.re.kr
-    ISHIGURO, Masateru (SNU) : ishigrmt .at. gmail.com
-    LEE     , Hee-Jae  (KASI): hjlee    .at. kasi.re.kr
-    GEEM    , Jooyeon  (SNU) : ksky0422 .at. gmail.com
-    BACH    , Yoonsoo  (SNU) : ysbach93 .at. gmail.com
+    e-mail: iau2022.fm8.loc@gmail.com
+    
+    MOON    , Hong-Kyu (KASI)
+    ISHIGURO, Masateru (SNU) 
+    LEE     , Hee-Jae  (KASI)
+    GEEM    , Jooyeon  (SNU) 
+    BACH    , Yoonsoo  (SNU) 
 
