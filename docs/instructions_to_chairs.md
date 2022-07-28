@@ -3,6 +3,8 @@
 ## Before the presentation
 1. The Chairpersons are all remote. Note that there will be a Co-Chairperson at the meeting room in BEXCO to support the Chairperson. Please organize the session in a quiet environment with a good network environment.
 2. Please be well aware of the time allocation of each speaker (presentation and Q&A session) in advance. It is different from person to person. Having a clock in your hand would be nice to keep time punctual.
+    - [Timekeeper for 12min + 3min cases](https://maruta.github.io/timekeeper/#t1=10:00&t2=12:00&t3=15:00&m=12%20min%20TALK%20%2B%203%20min%20Q%26amp%3BA) (default alarm at 10min, 12min, 15min)
+    - [Timekeeper for 11min + 2min cases](https://maruta.github.io/timekeeper/#t1=9:00&t2=11:00&t3=13:00&m=11%20min%20TALK%20%2B%202%20min%20Q%26amp%3BA) (default alarm at 9min, 11min, 13min)
 3. Please remind all remote audiences on zoom to mute their microphones except for the speaker.
 4. When a presentation time comes, please call out the title and the speaker's name. And then (i) ask to share their screen via zoom function in case of remote presentation, or (i) request LOCs to set up the computer in case of in-person presentation.
 5. If the zoom share by the remote speaker does not work, ask the LOCs to switch to a presentation using a local backup file.
