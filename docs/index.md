@@ -1,18 +1,21 @@
 # FM8
+This is a small website to host the guidelines by FM8 LOCs **at one single place**. 
 
-**Planetary Astronomy via Telescopic and Microscopic Approaches**
 
-This is a small website to host the documents by FM8 LOCs. 
-
-Please click the link to detailed instructions:
-* [**Chairs & Co-chairs**](instructions_to_chairs.md)
+## Instructions (Guidelines)
+* **Chairs & Co-chairs**: [link](instructions_to_chairs.md)
 * In-room Speakers
 * Remote Speakers
 * e-Posters
 
 
-## IAUGA 2022 FM8 LOC
-Below are the LOC members. 
+## What is FM8?
+* Focus Meeting 8 at the 31st IAU General Assembly (2022, Busan, S. Korea).
+* Title: **Planetary Astronomy via Telescopic and Microscopic Approaches**
+
+
+## Contacts
+Below are the IAUGA 2022 FM8 LOC members. 
 
     MOON    , Hong-Kyu (KASI): fullmoon .at. kasi.re.kr
     ISHIGURO, Masateru (SNU) : ishigrmt .at. gmail.com
