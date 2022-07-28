@@ -5,8 +5,10 @@
 This is a small website to host the documents by FM8 LOCs. 
 
 Please click the link to detailed instructions:
-* [Chairs](instructions_to_chairs.md)
-
+* [**Chairs & Co-chairs**](instructions_to_chairs.md)
+* In-room Speakers
+* Remote Speakers
+* e-Posters
 
 
 ## IAUGA 2022 FM8 LOC
