@@ -26,9 +26,11 @@ You can use a ⏺recorded video🎥 during your timeslot.
 * Please connect your computer via Zoom **15 minutes before your session** starts.
 * When Chairperson calls your name, please share your screen.
 * Ask the Chair if your screen sharing and audio are working properly.
-* If you cannot share your screen for ~2 minutes, the Chairperson will request to make your presentation using the backup file on the local computer in the conference room.
-* The bell will ring two minutes before the end of your presentation. Please be careful to finish your presentation on time.\
+* **The bell** will ring two minutes before the end of your presentation. 
+  * Please be careful to finish your presentation on time.
 * Please stop the screen sharing immediately after the Q&A session is over.
+
+⚠️ If you cannot share your screen for ~2 minutes, the Chairperson will request to make your presentation using the backup file on the local computer in the conference room.
 
 
 ## 3. After your presentation
