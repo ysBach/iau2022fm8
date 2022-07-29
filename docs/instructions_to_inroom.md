@@ -3,11 +3,13 @@
 * **Please be punctual** for your presentation.
 
 ## 1. Before your presentation
-* Please check your presentation materials in the **Preview Room** (CH 204 - see p.18 of [``GA2022_RoomAllocation.pdf``](iauga_docs/GA2022_RoomAllocation.pdf)). 
+* Please check your presentation materials in the **Preview Room** 
+    - Preview Room: **CH 204** - see p.18 of [``GA2022_RoomAllocation.pdf``](iauga_docs/GA2022_RoomAllocation.pdf). 
 * The Preview Room is available from **08:00-18:00 on August 2 & 3** in our case.
 * If you cannot confirm your material in the Preview Room for a reason, please send your presentation files to FM8 LOCs. 
 * LOCs will check the availability and let you know the result via email.
-* PDF (recommended) or MS PowerPoint (thus no Macs!) is acceptable.
+* **PDF (recommended)** or MS PowerPoint is acceptable.
+    * ``.key`` or ``.odp`` are **not** acceptable.
 * Please confirm your presentation time carefully and rehearse to keep your presentation. 
 * Please come to the conference room **at least 15 minutes before the session starts** and contact LOCs (Moon, Ishiguro, Hee-Jae Lee, Bach, or Geem).
 
