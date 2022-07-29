@@ -9,7 +9,7 @@ You can use a ⏺recorded video🎥 during your timeslot.
 ### 1-1 If you prefer the ⏺recorded video🎥
 * _Send the file to FM8 LOC email_ by the time. 
 * Please consider general video formats such as ``.mp4``.
-* LOC will review the contents and upload the file before 2022-08-02T09:00 KST (2022-08-02T00:00 UTC).
+* LOC will review the contents and upload the file before the next morning.
 
 
 ### 1-2. If you want to replace the backup file 
