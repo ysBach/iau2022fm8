@@ -9,6 +9,12 @@ This is a small website to host the guidelines by FM8 LOCs **at one single place
 * e-Posters: >>[link](instructions_to_eposter.md)<<
 
 
+## Official Docs from IAUGA
+* Which room should I go?: [``GA2022_RoomAllocation.pdf``](https://iauga2022netw-bbw9180.slack.com/files/U03PZU5HVML/F03RNCNC87J/ga2022_roomallocation.pdf)
+    - **FM8: Convention Hall Room #106** 
+    - **Preview Room: Convention Hall Room #204**
+* COVID, Restaurants: [``General_Information(20220727).pdf``](https://iauga2022netw-bbw9180.slack.com/files/U03PZU5HVML/F03RJ608ZLH/general_information_20220727_.pdf)
+
 ## What is FM8?
 * Focus Meeting 8 at the 31st IAU General Assembly (2022, Busan, S. Korea).
 * Title: **Planetary Astronomy via Telescopic and Microscopic Approaches**
