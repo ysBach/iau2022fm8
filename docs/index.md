@@ -10,10 +10,10 @@ This is a small website to host the guidelines by FM8 LOCs **at one single place
 
 
 ## Official Docs from IAUGA
-* Which room should I go?: [``GA2022_RoomAllocation.pdf``](https://iauga2022netw-bbw9180.slack.com/files/U03PZU5HVML/F03RNCNC87J/ga2022_roomallocation.pdf)
+* Which room should I go?: [``GA2022_RoomAllocation.pdf``](iauga_docs/GA2022_RoomAllocation.pdf)
     - **FM8: Convention Hall Room #106** 
     - **Preview Room: Convention Hall Room #204**
-* COVID, Restaurants: [``General_Information(20220727).pdf``](https://iauga2022netw-bbw9180.slack.com/files/U03PZU5HVML/F03RJ608ZLH/general_information_20220727_.pdf)
+* COVID, Restaurants: [``General_Information(20220727).pdf``](iauga_docs/General_Information(20220727).pdf)
 
 ## What is FM8?
 * Focus Meeting 8 at the 31st IAU General Assembly (2022, Busan, S. Korea).
