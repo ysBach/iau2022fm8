@@ -10,6 +10,7 @@ This is a small website to host the guidelines by FM8 LOCs **at one single place
 
 
 ## Official Docs from IAUGA
+(click the filenames)
 * Which room should I go?: [``GA2022_RoomAllocation.pdf``](iauga_docs/GA2022_RoomAllocation.pdf)
     - **FM8: Convention Hall Room #106** 
     - **Preview Room: Convention Hall Room #204**
