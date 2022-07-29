@@ -9,7 +9,7 @@ This is a small website to host information by FM8 LOCs **at one single place**.
 * **e-Posters**: >>[link](instructions_to_eposter.md)<<
 
 ## Schedules
-* e-Poster times: >>[link](https://docs.google.com/spreadsheets/d/19wTkitOYZKLuY27WhNHv6kSKkr_jcNtPZO_r6xfRgCA/edit?usp=sharing)<<
+* **e-Poster schedules**: >>[link](https://docs.google.com/spreadsheets/d/19wTkitOYZKLuY27WhNHv6kSKkr_jcNtPZO_r6xfRgCA/edit?usp=sharing)<<
 * General time schedule: 
 
 <img src="iauga_docs/DailySchedule.png" width="400"/>
