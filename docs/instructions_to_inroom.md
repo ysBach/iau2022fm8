@@ -3,7 +3,7 @@
 * **Please be punctual** for your presentation.
 
 ## 1. Before your presentation
-* Please check your presentation materials in the **Preview Room** (CH 204 - see p.18 of [``GA2022_RoomAllocation.pdf``](https://iauga2022netw-bbw9180.slack.com/files/U03PZU5HVML/F03RNCNC87J/ga2022_roomallocation.pdf)). 
+* Please check your presentation materials in the **Preview Room** (CH 204 - see p.18 of [``GA2022_RoomAllocation.pdf``](iauga_docs/GA2022_RoomAllocation.pdf)). 
 * The Preview Room is available from **08:00-18:00 on August 2 & 3** in our case.
 * If you cannot confirm your material in the Preview Room for a reason, please send your presentation files to FM8 LOCs. 
 * LOCs will check the availability and let you know the result via email.
