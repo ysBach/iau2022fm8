@@ -1,5 +1,5 @@
 # FM8
-This is a small website to host the guidelines by FM8 LOCs **at one single place**. 
+This is a small website to host information by FM8 LOCs **at one single place**. 
 
 
 ## Instructions (Guidelines)
@@ -8,6 +8,10 @@ This is a small website to host the guidelines by FM8 LOCs **at one single place
 * **Remote Speakers**: >>[link](instructions_to_remote.md)<<
 * **e-Posters**: >>[link](instructions_to_eposter.md)<<
 
+## Schedules
+* e-Poster times: >>[link](https://docs.google.com/spreadsheets/d/19wTkitOYZKLuY27WhNHv6kSKkr_jcNtPZO_r6xfRgCA/edit?usp=sharing)<<
+* Oral presentation times: 
+<img src="iauga_docs/DailySchedule.png" width="400"/>
 
 ## Official Docs from IAUGA
 (click the filenames)
@@ -15,6 +19,9 @@ This is a small website to host the guidelines by FM8 LOCs **at one single place
     - **FM8: Convention Hall Room #106** 
     - **Preview Room: Convention Hall Room #204**
 * COVID, Restaurants: [``General_Information(20220727).pdf``](iauga_docs/General_Information(20220727).pdf)
+
+
+
 
 ## What is FM8?
 * Focus Meeting 8 at the 31st IAU General Assembly (2022, Busan, S. Korea).
