@@ -10,7 +10,7 @@ This is a small website to host information by FM8 LOCs **at one single place**.
 
 ## Schedules
 * e-Poster times: >>[link](https://docs.google.com/spreadsheets/d/19wTkitOYZKLuY27WhNHv6kSKkr_jcNtPZO_r6xfRgCA/edit?usp=sharing)<<
-* Oral presentation times: 
+* General time schedule: 
 
 <img src="iauga_docs/DailySchedule.png" width="400"/>
 
