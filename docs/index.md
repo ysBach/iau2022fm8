@@ -3,10 +3,10 @@ This is a small website to host the guidelines by FM8 LOCs **at one single place
 
 
 ## Instructions (Guidelines)
-* **Chairs & Co-chairs**: [link](instructions_to_chairs.md)
-* In-room Speakers
-* Remote Speakers
-* e-Posters
+* **Chairs & Co-chairs**: >>[link](instructions_to_chairs.md)<<
+* In-room Speakers: >>[link](instructions_to_inroom.md)<<
+* Remote Speakers: >>[link](instructions_to_remote.md)<<
+* e-Posters: >>[link](instructions_to_eposter.md)<<
 
 
 ## What is FM8?
