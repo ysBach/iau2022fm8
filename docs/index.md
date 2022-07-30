@@ -29,10 +29,9 @@ Please check your email box (or spam folder, just in case)
 
 
 ## Contents & Schedules
-- »[FM8 Oral presentations Schedule](fm8files/timetable_fm8.pdf)<<
-- »[e-Poster schedules](https://docs.google.com/spreadsheets/d/19wTkitOYZKLuY27WhNHv6kSKkr_jcNtPZO_r6xfRgCA/edit?usp=sharing)<<
-- »[FM8 e-Poster contents (N=18)](https://www.iauga2022.org/program/program_12.asp?subCate=B&sMenu=abo12&sch_session=15&sch_fName=&sch_lName=&sch_aff=&sch_key=)<<
-- »[FM8 e-talk contents (N=0)](https://www.iauga2022.org/program/program_08.asp?subCate=B&sMenu=abo8&sch_session=15&sch_fName=&sch_lName=&sch_aff=&sch_key=)<<
+- »[Talks](fm8files/timetable_fm8.pdf)<<
+- »[e-Posters](https://docs.google.com/spreadsheets/d/19wTkitOYZKLuY27WhNHv6kSKkr_jcNtPZO_r6xfRgCA/edit?usp=sharing)<<
+- There is no e-Talk in FM8.
 - FM8 website by KASI: >>[link](https://iau2021fm8.kasi.re.kr/)<<
 
 * [ALL Programs at a glance](https://www.iauga2022.org/program/program_01.asp?sMenu=abo1) (IAUGA)
@@ -47,8 +46,6 @@ Please check your email box (or spam folder, just in case)
     - **FM8: Conv. Hall 106** 
     - **Preview Room: Conv. Hall 204**
 * COVID, Restaurants: [``General_Information(20220727).pdf``](iauga_docs/General_Information(20220727).pdf)
-
-
 
 
 
