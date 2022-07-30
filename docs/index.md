@@ -1,4 +1,6 @@
 # FM8
+"Focus Meeting 8" at the 31st IAU General Assembly (2022, Busan, S. Korea). The title is **Planetary Astronomy via Telescopic and Microscopic Approaches**.
+
 This is a small website to host information by FM8 LOCs **at one single place**. 
 
 
@@ -9,10 +11,11 @@ This is a small website to host information by FM8 LOCs **at one single place**.
 * **e-Posters**: >>[link](instructions_to_eposter.md)<<
 
 ## <img src="imgs/Zoom-icon.png" width="30"/> Zoom links
-Sent to FM8 remote speakers and chairs via email. Please check your email box (or spam folder, just in case)
-* Email title: "[IAU FM8] Zoom link for remote oral speaker"
-* Email time: 2022-07-30T12:17 KST (03:17 UTC) 
-* Eamil from: One of the SOC members (``Masateru ISHIGURO <ishigrmt@gmail.com>``)
+Sent to FM8 _remote speakers_ and _chairs_ via email. 
+> Please check your email box (or spam folder, just in case)
+> * Email title: "[IAU FM8] Zoom link for remote oral speaker"
+> * Email time: 2022-07-30T12:17 KST (03:17 UTC) 
+> * Eamil from: One of the SOC members (``Masateru ISHIGURO <ishigrmt@gmail.com>``)
 
 ## Schedules
 * **e-Poster schedules**: >>[link](https://docs.google.com/spreadsheets/d/19wTkitOYZKLuY27WhNHv6kSKkr_jcNtPZO_r6xfRgCA/edit?usp=sharing)<<
@@ -29,9 +32,6 @@ Sent to FM8 remote speakers and chairs via email. Please check your email box (o
 
 
 
-
-## What is FM8?
-"Focus Meeting 8" at the 31st IAU General Assembly (2022, Busan, S. Korea). The title is **Planetary Astronomy via Telescopic and Microscopic Approaches**.
 
 
 ## Contacts
