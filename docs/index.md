@@ -21,6 +21,9 @@ Sent to FM8 _remote speakers_ and _chairs_ via email.
 > * Email time: 2022-07-30T12:17 KST (03:17 UTC) 
 > * Eamil from: One of the SOC members (``Masateru ISHIGURO <ishigrmt@gmail.com>``)
 
+**General online participants** should use the "meeting platform" (IAUGA said it is not available yet).
+
+
 ## Schedules
 * [Program at a glance](https://www.iauga2022.org/program/program_01.asp?sMenu=abo1)
 * **e-Poster schedules**: >>[link](https://docs.google.com/spreadsheets/d/19wTkitOYZKLuY27WhNHv6kSKkr_jcNtPZO_r6xfRgCA/edit?usp=sharing)<<
