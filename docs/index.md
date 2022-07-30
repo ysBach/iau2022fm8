@@ -28,8 +28,8 @@ Sent to FM8 _remote speakers_ and _chairs_ via email.
 
 
 ## Contents & Schedules
-- \>\>[FM8 Oral presentations Schedule](fm8files/timetable_fm8.pdf)<<
-- \>\>[e-Poster schedules](https://docs.google.com/spreadsheets/d/19wTkitOYZKLuY27WhNHv6kSKkr_jcNtPZO_r6xfRgCA/edit?usp=sharing)<<
+- \>>[FM8 Oral presentations Schedule](fm8files/timetable_fm8.pdf)<<
+- \>>[e-Poster schedules](https://docs.google.com/spreadsheets/d/19wTkitOYZKLuY27WhNHv6kSKkr_jcNtPZO_r6xfRgCA/edit?usp=sharing)<<
 - There are 18 e-Posters in our FM ([FM8 e-Poster](https://www.iauga2022.org/program/program_12.asp?subCate=B&sMenu=abo12&sch_session=15&sch_fName=&sch_lName=&sch_aff=&sch_key=))
 - There are  0 e-Talk in our FM ([FM8 e-talk](https://www.iauga2022.org/program/program_08.asp?subCate=B&sMenu=abo8&sch_session=15&sch_fName=&sch_lName=&sch_aff=&sch_key=))
 - FM8 website by KASI: >>[link](https://iau2021fm8.kasi.re.kr/)<<
