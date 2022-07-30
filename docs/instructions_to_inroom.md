@@ -11,7 +11,7 @@
 * Please confirm your presentation time carefully and rehearse to keep your presentation. 
 * Please come to the conference room **at least 15 minutes before the session starts** and contact LOCs (Moon, Ishiguro, Hee-Jae Lee, Bach, or Geem).
 
-⚠️ If you have trouble in the Preview Room, please send your presentation files to FM8 LOCs. LOCs will check the availability and let you know the result via email.
+⚠️ If you have trouble in the Preview Room, please send your presentation files to FM8 LOC **at least 1️⃣ hour prior to the start of your session**. LOCs will check the availability and let you know the result via email.
 
 ## 2. During your presentation
 * **The bell** will ring _**2 minutes** before the end_ of your presentation. 
