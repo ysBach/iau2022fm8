@@ -10,6 +10,7 @@
     - Presentation times are different from person to person. You may use the following links:
     - [⏱ Timekeeper for **12 + 3min** cases](https://maruta.github.io/timekeeper/#t1=10:00&t2=12:00&t3=15:00&m=12%20min%20TALK%20%2B%203%20min%20Q%26amp%3BA) (default alarm at 10min, 12min, 15min)
     - [⏱ Timekeeper for **11 + 2min** cases](https://maruta.github.io/timekeeper/#t1=9:00&t2=11:00&t3=13:00&m=11%20min%20TALK%20%2B%202%20min%20Q%26amp%3BA) (default alarm at 9min, 11min, 13min)
+    - Please let the speaker know "**2️⃣ minutes left**". 
 4. **🔇Mute microphones** except for the speaker.
 5. Call out the **title and the speaker's name**. And then 
     1. *remote presentation*: ask the speaker to **share their screen🖥** from zoom
