@@ -34,7 +34,7 @@ Sent to FM8 _remote speakers_ and _chairs_ via email.
 - There are  0 e-Talk in our FM ([FM8 e-talk](https://www.iauga2022.org/program/program_08.asp?subCate=B&sMenu=abo8&sch_session=15&sch_fName=&sch_lName=&sch_aff=&sch_key=))
 - FM8 website by KASI: >>[link](https://iau2021fm8.kasi.re.kr/)<<
 
-* [ALL Program at a glance](https://www.iauga2022.org/program/program_01.asp?sMenu=abo1)
+* [ALL Programs at a glance](https://www.iauga2022.org/program/program_01.asp?sMenu=abo1) (IAUGA)
 
 * General time schedule: 
 
