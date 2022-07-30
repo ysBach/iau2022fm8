@@ -4,7 +4,7 @@
 
 ## 1. Before your presentation
 * Please check your presentation materials in the **Preview Room** 
-  - Preview Room: **CH 204** - see p.18 of [``GA2022_RoomAllocation.pdf``](iauga_docs/GA2022_RoomAllocation.pdf). 
+  - Preview Room: **CH 204** - (see >>[Venue Guide](http://www.iauga2022.org/about/about_06.asp?sMenu=abo6)<<). 
 * The Preview Room is available from **08:00-18:00 on August 2 & 3** in our case.
 * **PDF (recommended)** or MS PowerPoint is acceptable.
   * ``.key`` or ``.odp`` are **not** acceptable.
