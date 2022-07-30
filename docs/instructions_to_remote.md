@@ -22,7 +22,7 @@ You can use a ⏺recorded video🎥 during your timeslot.
 
 * Please set up your computer in a 🤫quiet room with a good network environment.
 * The Zoom link is provided in a separate email (see the [**top page**](index.md#zoom-links)) 
-* Please connect your computer via Zoom **15 minutes before your session** starts.
+* Please connect your computer via <img src="imgs/Zoom-icon.png" width="30"/>Zoom **15 minutes before your _session_** starts.
 * When Chairperson calls your name, please share your screen.
 * Ask the Chair if your screen sharing and audio are working properly.
 * **The bell** will ring two minutes before the end of your presentation. 
