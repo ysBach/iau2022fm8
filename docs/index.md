@@ -14,11 +14,13 @@ This is a small website to host information by FM8 LOCs **at one single place**.
 Sent to FM8 _remote speakers_ and _chairs_ via email. 
 <details><summary> Wait, I didn't get the email!?</summary>
 <p>
-
 Please check your email box (or spam folder, just in case)
-* Email title: "[IAU FM8] Zoom link for remote oral speaker"
-* Eamil from: One of the SOC members (``Masateru ISHIGURO <ishigrmt@gmail.com>``)
-* Email time: 2022-07-30T12:17 KST (03:17 UTC) 
+
+    * Email title: "[IAU FM8] Zoom link for remote oral speaker"
+
+    * Eamil from: One of the SOC members (``Masateru ISHIGURO <ishigrmt@gmail.com>``)
+
+    * Email time: 2022-07-30T12:17 KST (03:17 UTC) 
 
 </p>
 </details>
