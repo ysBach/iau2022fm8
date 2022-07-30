@@ -8,6 +8,12 @@ This is a small website to host information by FM8 LOCs **at one single place**.
 * **Remote Speakers**: >>[link](instructions_to_remote.md)<<
 * **e-Posters**: >>[link](instructions_to_eposter.md)<<
 
+## 🎦Zoom links
+Sent to FM8 remote speakers and chairs via email. Please check your email box (or spam folder, just in case)
+* Email title: "[IAU FM8] Zoom link for remote oral speaker"
+* Email time: 2022-07-30T12:17 KST (03:17 UTC) 
+* Eamil from: One of the SOC members (``Masateru ISHIGURO <ishigrmt@gmail.com>``)
+
 ## Schedules
 * **e-Poster schedules**: >>[link](https://docs.google.com/spreadsheets/d/19wTkitOYZKLuY27WhNHv6kSKkr_jcNtPZO_r6xfRgCA/edit?usp=sharing)<<
 * General time schedule: 
