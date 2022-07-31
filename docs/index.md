@@ -11,7 +11,7 @@ This is a small website to host information by FM8 LOCs **at one single place**.
 * **e-Posters**: >>[link](instructions_to_eposter.md)<<
 
 ## <img src="imgs/Zoom-icon.png" width="30"/> Zoom links
-Sent to FM8 _remote speakers_ and _chairs_ via email. 
+Already sent to FM8 _remote speakers_ and _chairs_ via email. 
 <details><summary> Wait, I didn't get the email!? (click)</summary>
 <p>
 Please check your email box (or spam folder, just in case)
@@ -29,9 +29,9 @@ Please check your email box (or spam folder, just in case)
 
 
 ## Contents & Schedules
-- »[Talks]([fm8files/timetable_fm8.pdf](https://docs.google.com/spreadsheets/d/1SBi9pDeAfjOlQAgSWItndRrmCDKO2Hq4w867UzjnoLs/edit?usp=sharing))<<
-- »[e-Posters](https://docs.google.com/spreadsheets/d/19wTkitOYZKLuY27WhNHv6kSKkr_jcNtPZO_r6xfRgCA/edit?usp=sharing)<<
-- There is no e-Talk in FM8.
+- 🗣 >>[Talks]([fm8files/timetable_fm8.pdf](https://docs.google.com/spreadsheets/d/1SBi9pDeAfjOlQAgSWItndRrmCDKO2Hq4w867UzjnoLs/edit?usp=sharing))<<
+- 📜 >>[e-Posters](https://docs.google.com/spreadsheets/d/19wTkitOYZKLuY27WhNHv6kSKkr_jcNtPZO_r6xfRgCA/edit?usp=sharing)<<
+- There is **no e-Talk** in FM8.
 - FM8 website by KASI: >>[link](https://iau2021fm8.kasi.re.kr/)<<
 
 * [ALL Programs at a glance](https://www.iauga2022.org/program/program_01.asp?sMenu=abo1) (IAUGA)
