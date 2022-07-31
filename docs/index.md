@@ -29,7 +29,7 @@ Please check your email box (or spam folder, just in case)
 
 
 ## Contents & Schedules
-- »[Talks](fm8files/timetable_fm8.pdf)<<
+- »[Talks]([fm8files/timetable_fm8.pdf](https://docs.google.com/spreadsheets/d/1SBi9pDeAfjOlQAgSWItndRrmCDKO2Hq4w867UzjnoLs/edit?usp=sharing))<<
 - »[e-Posters](https://docs.google.com/spreadsheets/d/19wTkitOYZKLuY27WhNHv6kSKkr_jcNtPZO_r6xfRgCA/edit?usp=sharing)<<
 - There is no e-Talk in FM8.
 - FM8 website by KASI: >>[link](https://iau2021fm8.kasi.re.kr/)<<
