@@ -29,10 +29,11 @@ Please check your email box (or spam folder, just in case)
 
 
 ## Contents & Schedules
-- 🗣 >>[Talks](https://docs.google.com/spreadsheets/d/1SBi9pDeAfjOlQAgSWItndRrmCDKO2Hq4w867UzjnoLs/edit?usp=sharing)<< (Google sheet)
-- 📜 >>[e-Posters](https://docs.google.com/spreadsheets/d/19wTkitOYZKLuY27WhNHv6kSKkr_jcNtPZO_r6xfRgCA/edit?usp=sharing)<< (Google sheet)
+- 🗣 >>[Talks](https://docs.google.com/spreadsheets/d/1SBi9pDeAfjOlQAgSWItndRrmCDKO2Hq4w867UzjnoLs/edit?usp=sharing)<<
+- 📜 >>[e-Posters](https://docs.google.com/spreadsheets/d/19wTkitOYZKLuY27WhNHv6kSKkr_jcNtPZO_r6xfRgCA/edit?usp=sharing)<<
 - There is **no e-Talk** in FM8.
 - FM8 website by KASI: >>[link](https://iau2021fm8.kasi.re.kr/)<<
+    - Info on this FM, SOC members, etc.
 
 * [ALL Programs at a glance](https://www.iauga2022.org/program/program_01.asp?sMenu=abo1) (IAUGA)
 
