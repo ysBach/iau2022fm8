@@ -15,7 +15,6 @@
 
 ## 2. During your presentation
 * **The bell🛎** will ring _**2️⃣ minutes** before the end_ of your presentation 
-    - i.e., 9 or 10 mins after the start, depending on the allocated time.
 * Please be careful to finish your presentation on time.
 
 ## 3. After your presentation
