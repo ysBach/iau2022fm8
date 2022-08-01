@@ -10,23 +10,9 @@ This is a small website to host information by FM8 LOCs **at one single place**.
 * **Remote Speakers**: >>[link](instructions_to_remote.md)<<
 * **e-Posters**: >>[link](instructions_to_eposter.md)<<
 
-## <img src="imgs/Zoom-icon.png" width="30"/> Zoom links
-Already sent to FM8 _remote speakers_ and _chairs_ via email. 
-<details><summary> Wait, I didn't get the email!? (click)</summary>
-<p>
-Please check your email box (or spam folder, just in case)
-
-    * Email title: "[IAU FM8] Zoom link for remote oral speaker"
-
-    * Eamil from: One of the SOC members (``Masateru ISHIGURO <ishigrmt@gmail.com>``)
-
-    * Email time: 2022-07-30T12:17 KST (03:17 UTC) 
-
-</p>
-</details>
-
-**General online participants** should use the "**meeting platform**" (IAUGA said it is not available yet).
-
+## Virtual Meeting Platform
+Go to the >>[meeting platform](https://virtual.iauga2022.org/enter.asp)<<.
+* **Remote speakers** should use <img src="imgs/Zoom-icon.png" width="30"/>Zzoom for presentation (see guideline above)
 
 ## Contents & Schedules
 - 🗣 >>[Talks](https://docs.google.com/spreadsheets/d/1SBi9pDeAfjOlQAgSWItndRrmCDKO2Hq4w867UzjnoLs/edit?usp=sharing)<<
