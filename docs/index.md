@@ -11,7 +11,7 @@ This is a small website to host information by FM8 LOCs **at one single place**.
 * **e-Posters**: >>[link](instructions_to_eposter.md)<<
 
 ## Virtual Meeting Platform
-Go to the >>[meeting platform](https://virtual.iauga2022.org/enter.asp)<<.
+* Go to the >>[meeting platform](https://virtual.iauga2022.org/enter.asp)<<.
 * **Remote speakers** should use <img src="imgs/Zoom-icon.png" width="30"/>Zoom for presentation (see guideline above)
 
 ## Contents & Schedules
