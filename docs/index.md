@@ -27,9 +27,10 @@ This is a small website to host information by FM8 LOCs **at one single place**.
 
 <img src="iauga_docs/DailySchedule.png" width="400"/>
 
-## Official Docs from IAUGA
+## From IAUGA
 (click the filenames)
-* Which room should I go?: [``GA2022_RoomAllocation.pdf``](iauga_docs/GA2022_RoomAllocation.pdf)
+* [IAUGA Official web for General Information](https://www.iauga2022.org/)
+* Room Allocation (detailed version of [Venue Guide](http://www.iauga2022.org/about/about_06.asp?sMenu=abo6)): [``GA2022_RoomAllocation.pdf``](iauga_docs/GA2022_RoomAllocation.pdf)
     - **FM8: Conv. Hall 106** 
     - **Preview Room: Conv. Hall 204**
 * COVID, Restaurants: [``General_Information(20220727).pdf``](iauga_docs/General_Information(20220727).pdf)
